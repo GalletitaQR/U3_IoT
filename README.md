@@ -13,4 +13,4 @@ así como un circuito de soldadura y ejercicios de aprendizaje teórico.
    ![image](https://github.com/user-attachments/assets/ed885d8b-4f22-4203-acab-9dd6be580567)
 
 ### 4. *NetAcad (1.5 puntos)*
-   ![imagen](https://github.com/user-attachments/assets/f241833f-e7f0-48d7-8947-b78c25c28038)
+   ![image](https://github.com/user-attachments/assets/1fad6208-c3ff-4037-99c2-07f06d7b957b)
