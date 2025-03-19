@@ -6,19 +6,13 @@ así como un circuito de soldadura y ejercicios de aprendizaje teórico.
 | Sensor/Video | Diagrama | Código |
 |:---:       |     :---:      |        :---:  |
 | [ky_020](https://drive.google.com/file/d/1il12CBUcUBlA6g4-58La_Pdp2jWjJRQD/view?usp=drive_link) |  ![ky_020](https://github.com/user-attachments/assets/0e6d71f1-cd3d-4d1e-8c46-d242b452033a)|[ky_020](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_020.py)|
-| [ky_021](https://drive.google.com/file/d/1Bi93-NdhigDnkQUAdeVdanLixk7rKuei/view?usp=drive_link) |  ![ky_021](https://github.com/user-attachments/assets/958cef32-2a34-42ec-9d0a-4e180a5176d3)
-|[ky_021](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_021.py)|
+| [ky_021](https://drive.google.com/file/d/1Bi93-NdhigDnkQUAdeVdanLixk7rKuei/view?usp=drive_link) |  ![ky_021](https://github.com/user-attachments/assets/958cef32-2a34-42ec-9d0a-4e180a5176d3)|[ky_021](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_021.py)|
 | [ky_022](https://drive.google.com/file/d/1il12CBUcUBlA6g4-58La_Pdp2jWjJRQD/view?usp=drive_link) |  ![ky_022](https://github.com/user-attachments/assets/0e6d71f1-cd3d-4d1e-8c46-d242b452033a)|[ky_022](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_022.py)|
-| [ky_023](https://drive.google.com/file/d/1usNAltwlhxsaHHZihyQmuEeY_NGOyELB/view?usp=drive_link) |  ![ky_023](https://github.com/user-attachments/assets/48448ec2-e6f7-4ffc-91dd-50e8ab107a93)
-)|[ky_023](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_023.py)|
-| [ky_024](https://drive.google.com/file/d/1UJjZ-LY8Gj9vjXE3-t6KUCXTCSThZJS_/view?usp=drive_link) |  ![ky_024](https://github.com/user-attachments/assets/7c26240c-82a7-4557-86f8-8bd571028cdb)
-|[ky_024](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_024.py)|
-| [ky_025](https://drive.google.com/file/d/13lYhoKgf0Wy2UpA3yRKRR7E4X49jzGM9/view?usp=drive_link) |  ![ky_025](https://github.com/user-attachments/assets/6567abed-5793-491d-838d-dd557ff389f9)
-|[ky_025](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_025.py)|
-| [ky_026](https://drive.google.com/file/d/1_N9vnAyDs0fs3eda7qUn7VM_i2l48TM0/view?usp=drive_link) |  ![ky_026](https://github.com/user-attachments/assets/2d377070-d6af-4f2b-96d4-d9a3b1c25d45)
-|[ky_026](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_026.py)|
-| [ky_027](https://drive.google.com/file/d/1XoScxpyXOXatqm0eXc4-8EPkxrqHaufg/view?usp=drive_link) |  ![ky_027](https://github.com/user-attachments/assets/86d19eb1-d305-4bd3-92ad-86e68ab74367)
-|[ky_027](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_027.py)|
+| [ky_023](https://drive.google.com/file/d/1usNAltwlhxsaHHZihyQmuEeY_NGOyELB/view?usp=drive_link) |  ![ky_023](https://github.com/user-attachments/assets/48448ec2-e6f7-4ffc-91dd-50e8ab107a93)|[ky_023](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_023.py)|
+| [ky_024](https://drive.google.com/file/d/1UJjZ-LY8Gj9vjXE3-t6KUCXTCSThZJS_/view?usp=drive_link) |  ![ky_024](https://github.com/user-attachments/assets/7c26240c-82a7-4557-86f8-8bd571028cdb)|[ky_024](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_024.py)|
+| [ky_025](https://drive.google.com/file/d/13lYhoKgf0Wy2UpA3yRKRR7E4X49jzGM9/view?usp=drive_link) |  ![ky_025](https://github.com/user-attachments/assets/6567abed-5793-491d-838d-dd557ff389f9)|[ky_025](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_025.py)|
+| [ky_026](https://drive.google.com/file/d/1_N9vnAyDs0fs3eda7qUn7VM_i2l48TM0/view?usp=drive_link) |  ![ky_026](https://github.com/user-attachments/assets/2d377070-d6af-4f2b-96d4-d9a3b1c25d45)|[ky_026](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_026.py)|
+| [ky_027](https://drive.google.com/file/d/1XoScxpyXOXatqm0eXc4-8EPkxrqHaufg/view?usp=drive_link) |  ![ky_027](https://github.com/user-attachments/assets/86d19eb1-d305-4bd3-92ad-86e68ab74367)|[ky_027](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_027.py)|
 | [ky_028](https://drive.google.com/file/d/1il12CBUcUBlA6g4-58La_Pdp2jWjJRQD/view?usp=drive_link) |  ![ky_028](https://github.com/user-attachments/assets/0e6d71f1-cd3d-4d1e-8c46-d242b452033a)|[ky_028](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_028.py)|
 | [ky_029](https://drive.google.com/file/d/1il12CBUcUBlA6g4-58La_Pdp2jWjJRQD/view?usp=drive_link) |  ![ky_029](https://github.com/user-attachments/assets/0e6d71f1-cd3d-4d1e-8c46-d242b452033a)|[ky_029](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_029.py)|
 | [ky_031](https://drive.google.com/file/d/1il12CBUcUBlA6g4-58La_Pdp2jWjJRQD/view?usp=drive_link) |  ![ky_031](https://github.com/user-attachments/assets/0e6d71f1-cd3d-4d1e-8c46-d242b452033a)|[ky_031](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_031.py)|
