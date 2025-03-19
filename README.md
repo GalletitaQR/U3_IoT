@@ -7,7 +7,7 @@ así como un circuito de soldadura y ejercicios de aprendizaje teórico.
 ### 1. *Sensores/Actuadores (5 puntos)*
 | Sensor/Video | Diagrama | Código |
 |:---:       |     :---:      |        :---:  |
-| ky_020   |  ![ky_020](https://github.com/user-attachments/assets/0e6d71f1-cd3d-4d1e-8c46-d242b452033a)|[ky_020](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_020.py)|
+| [ky_020](https://drive.google.com/file/d/1il12CBUcUBlA6g4-58La_Pdp2jWjJRQD/view?usp=drive_link) |  ![ky_020](https://github.com/user-attachments/assets/0e6d71f1-cd3d-4d1e-8c46-d242b452033a)|[ky_020](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_020.py)|
 
 
 ### 3. *Quizziz (1.5 puntos)*
