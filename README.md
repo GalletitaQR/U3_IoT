@@ -6,7 +6,8 @@ así como un circuito de soldadura y ejercicios de aprendizaje teórico.
 | Sensor/Video | Diagrama | Código |
 |:---:       |     :---:      |        :---:  |
 | [ky_020](https://drive.google.com/file/d/1il12CBUcUBlA6g4-58La_Pdp2jWjJRQD/view?usp=drive_link) |  ![ky_020](https://github.com/user-attachments/assets/0e6d71f1-cd3d-4d1e-8c46-d242b452033a)|[ky_020](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_020.py)|
-| [ky_021](https://drive.google.com/file/d/1il12CBUcUBlA6g4-58La_Pdp2jWjJRQD/view?usp=drive_link) |  ![ky_021](https://github.com/user-attachments/assets/0e6d71f1-cd3d-4d1e-8c46-d242b452033a)|[ky_021](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_021.py)|
+| [ky_021](https://drive.google.com/file/d/1Bi93-NdhigDnkQUAdeVdanLixk7rKuei/view?usp=drive_link) |  ![ky_021](https://github.com/user-attachments/assets/958cef32-2a34-42ec-9d0a-4e180a5176d3)
+|[ky_021](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_021.py)|
 | [ky_022](https://drive.google.com/file/d/1il12CBUcUBlA6g4-58La_Pdp2jWjJRQD/view?usp=drive_link) |  ![ky_022](https://github.com/user-attachments/assets/0e6d71f1-cd3d-4d1e-8c46-d242b452033a)|[ky_022](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_022.py)|
 | [ky_023](https://drive.google.com/file/d/1il12CBUcUBlA6g4-58La_Pdp2jWjJRQD/view?usp=drive_link) |  ![ky_023](https://github.com/user-attachments/assets/0e6d71f1-cd3d-4d1e-8c46-d242b452033a)|[ky_023](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_023.py)|
 | [ky_024](https://drive.google.com/file/d/1il12CBUcUBlA6g4-58La_Pdp2jWjJRQD/view?usp=drive_link) |  ![ky_024](https://github.com/user-attachments/assets/0e6d71f1-cd3d-4d1e-8c46-d242b452033a)|[ky_024](https://github.com/GalletitaQR/U3_IoT/blob/main/ky_024.py)|
