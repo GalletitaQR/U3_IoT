@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0c2107a4-2396-454b-94e6-9243489ac23e)# Proyecto de Sensores y Actuadores
+# Proyecto de Sensores y Actuadores
 Este repositorio contiene el código fuente, diagramas y documentación del proyecto relacionado con la conexión de sensores y actuadores, 
 así como un circuito de soldadura y ejercicios de aprendizaje teórico.
 
